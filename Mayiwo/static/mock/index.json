@@ -1,0 +1,123 @@
+{
+  "ret": "I am index.json",
+  "data": {
+    "swiperSrcList": [
+      {
+        "id": "0001",
+        "src": "https://p1-q.mafengwo.net/s12/M00/95/AF/wKgED1u6MiqAfPw0AAlzt9hyN8w80.jpeg?imageMogr2%2Fthumbnail%2F%21750x422r%2Fgravity%2FCenter%2Fcrop%2F%21750x422%2Fquality%2F90"
+      },
+      {
+        "id": "0002",
+        "src": "https://p3-q.mafengwo.net/s12/M00/33/25/wKgED1uwx-yAWhYdAAbWoMtbF1g60.jpeg?imageMogr2%2Fthumbnail%2F%21750x422r%2Fgravity%2FCenter%2Fcrop%2F%21750x422%2Fquality%2F90"
+      },
+      {
+        "id": "0003",
+        "src": "https://b1-q.mafengwo.net/s12/M00/0C/C4/wKgED1u7MtaATbRBAAcg0zPmCKY18.jpeg?imageMogr2%2Fthumbnail%2F%21750x422r%2Fgravity%2FCenter%2Fcrop%2F%21750x422%2Fquality%2F90"
+      }
+    ],
+    "iconListData": [
+      {
+        "id": "01",
+        "imgUrl": "",
+        "name": "找攻略"
+      },
+      {
+        "id": "02",
+        "imgUrl": "",
+        "name": "看游记"
+      },
+      {
+        "id": "03",
+        "imgUrl": "",
+        "name": "问达人"
+      },
+      {
+        "id": "04",
+        "imgUrl": "",
+        "name": "结伴"
+      },
+      {
+        "id": "05",
+        "imgUrl": "",
+        "name": "酒店"
+      },
+      {
+        "id": "06",
+        "imgUrl": "",
+        "name": "旅行商城"
+      },
+      {
+        "id": "07",
+        "imgUrl": "",
+        "name": "机票"
+      },
+      {
+        "id": "08",
+        "imgUrl": "",
+        "name": "当地玩乐"
+      }
+    ],
+    "recommendDada": [
+      {
+        "id": "01",
+        "title": "蔚蓝辞故人，一个人的OW考证独奏曲",
+        "head": true,
+        "detailImgUrl": "https://n1-q.mafengwo.net/s12/M00/6C/2F/wKgED1u8PseAMx-bAAOLGTXa4TA21.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+        "content": " 那些我很冒险的梦 DON\"T FEAR THE UNKNOWN 不要害怕未知 四年前，我在 菲律宾 浮潜 便被那71%的地球吸引着 所以，我来了 这是一首关于我OW考证的独奏曲 （建议配合音乐阅读--小提琴） 热血难凉的人啊 至死都是少年 越潜往深处，海水越蓝 蓝色天空变成了回忆 难忘 与海底水晶宫的第一次相遇 有时候我就在想， 我应该就是属于海里的那一条鱼， 只有回到海洋里才能有那片刻的宁静。 身处于深蓝 我才是我自己 掌握命运的是我自己 大自然奇妙的一点是： 他总不跟你商量， 就擅自决定送给你什么礼物。 拍下好看的照片而笑了的我 一想到可以拿给",
+        "browsingTime": 0,
+        "author": "好威风的浩卫峰",
+        "avatarUrl": "https://n1-q.mafengwo.net/s9/M00/C0/9E/wKgBs1aVspuAc913AAtIAXro9Ss43.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90"
+      },
+      {
+        "id": "02",
+        "title": "旅行真能使人改变吗",
+        "head": false,
+        "detailImgUrl": "https://b4-q.mafengwo.net/s11/M00/ED/5D/wKgBEFqOW5GALElVAAEtVMUndmQ31.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+        "content": "旅行路上，我学习了20种新技能！",
+        "browsingTime": 0,
+        "typeName": "攻略",
+        "color": "red"
+      },
+      {
+        "id": "03",
+        "title": "欧洲第二个免签国！文化历史美景皆有",
+        "head": false,
+        "detailImgUrl": "https://n3-q.mafengwo.net/s11/M00/20/DE/wKgBEFsNNf2AJ4dfAAMjCVlz6lM60.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+        "content": "曾被LP评为「最物超所值目的地」，也是「欧洲火药桶」，如何复杂有趣的目的地免签了！",
+        "browsingTime": 0,
+        "author": "脑花",
+        "avatarUrl": "https://p3-q.mafengwo.net/s9/M00/8B/C1/wKgBs1ZicEiAOW3HAADyxNb0pCc94.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90"
+      },
+      {
+        "id": "04",
+        "title": "南京众多赏秋地推荐丨栖霞山、止马岭都在这篇攻略里",
+        "head": false,
+        "detailImgUrl": "https://b4-q.mafengwo.net/s12/M00/03/EB/wKgED1uYkk-APXh4AARySI4EDKw74.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+        "content": "秋天真的来了，你未曾刻意去感受那丝秋意，她却悄悄地为你打造了一个色彩的天堂。或许南京的秋，没有喀纳斯那般绚烂，也没有甘南那般壮阔，但是，南京的秋，有一种在哪都寻不到的缠绵。这些地方秋色，都该被你收藏。",
+        "browsingTime": 0,
+        "typeName": "问答",
+        "color": "#30d2bf"
+      },
+      {
+        "id": "05",
+        "title": "日本『京都🍁枫叶』-网红小众打卡地，京都奈良get☑",
+        "head": false,
+        "detailImgUrl": "https://p1-q.mafengwo.net/s11/M00/1B/0D/wKgBEFqvzoaAdcDFABHXEqbowsY69.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+        "content": "To 京都 一直是我的wishlist之一，小确幸，能在庙宇麟落的 京都 、麋鹿环绕的 奈良 街头暴走。 选择了10月出发，也因为是枫叶季🍁 这是一篇简单粗暴的 日本 扫雷游记。 京都 ，是 日本 最悠久的政治中心，保留着古老文化的同时，也孕育出现代制造企业。 用了五天的时间，在 大阪 、 京都 、 奈良 之间穿梭。把复杂的交通走了一遍。 行程概括 day1｜抵达（ 大阪 － 京都 ） day2｜琉璃 大社 、贵船（ 京都 ） day3｜毘沙门堂、北野天满宫、醍醐寺（ 京都 ） day4｜若草山（ 奈良 ） day5、day6、day7……｜工作 其实旅程就只有孤零零的我",
+        "browsingTime": 0,
+        "typeName": "问答",
+        "color": "#30d2bf"
+      },
+      {
+        "id": "06",
+        "title": "如何利用“光”拍出好照片？",
+        "head": false,
+        "detailImgUrl": "https://p1-q.mafengwo.net/s11/M00/32/3A/wKgBEFplPf6AUWN_AAIM2sa80lk73.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+        "content": "旅拍开挂技能，学会利用“光”！",
+        "browsingTime": 0,
+        "typeName": "攻略",
+        "color": "red"
+      }
+    ]
+  }
+}

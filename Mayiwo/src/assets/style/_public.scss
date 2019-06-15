@@ -1,0 +1,29 @@
+// 各种颜色值
+$bg-pre-load: #ccc;
+$bg-light-gray: rgb(248, 248, 248);
+$bg-yellow: rgb(255, 224, 33);
+$bg-orange: #fbe7a8;
+$line-gray: #ccc;
+
+$font-title-black: #111;
+$font-content-gray: #999;
+$font-drak-gray: rgb(67, 67, 67);
+
+$font-button-orange: #ffa800;
+$font-button-red: #f63c3c;
+$font-button-green: #30d2bf;
+$font-button-indigo: #9fb622;
+$font-drak-green: rgb(0, 132, 137);
+
+// 设置字体图标位置
+// 如果设置了$offset-Y为数值，则相对Y轴作一些移动
+@mixin set-icon-font ($margin-left, $font-size, $offset-Y) {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: $margin-left;
+  font-size: $font-size;
+  @if $offset-Y {
+    transform: translateY($offset-Y);
+  }
+}
+
